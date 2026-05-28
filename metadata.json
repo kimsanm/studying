@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Khmer Online Academy",
+  "description": "A comprehensive e-learning platform and video course hub featuring local bank payments (KHQR), live chat support, student tracking, and offline learning capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
